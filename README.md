@@ -2,7 +2,7 @@
 
 ### 👨‍🔬 About Me
 - 🔬 **Occupation:** Bioinformatician at the Genetic Department, Universidad de La Laguna  
-- 🎓 **Education:** B.Sc. in Biology |  M.Sc. in Neuroscience | M.Sc. in Bioinformatics  
+- 🎓 **Education:** B.Sc. in Biology | M.Sc. in Bioinformatics | M.Sc. in Neuroscience
 <!--
 - 🌱 **Currently Exploring:** How to apply machine learning and deep learning to genomic data
 -->
