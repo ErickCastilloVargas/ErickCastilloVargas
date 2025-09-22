@@ -13,7 +13,7 @@ Want to know more? Check out my personal website:
 [![Website](https://img.shields.io/badge/Website-erickcastillo.page-14a1f0?logo=google-chrome&logoColor=white)](https://erickcastillo.page)
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/erick-marcos-castillo-vargas-68318a221) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:erickmarcoscastillovargas@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/erick-marcos-castillo-vargas-68318a221) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:erickmarcoscastillovargas@gmail.com) [![ORCID](https://img.shields.io/badge/ORCID-%23A6CE39.svg?logo=orcid&logoColor=white)](https://orcid.org/0009-0009-7152-9116)
 
 ## 💻 Tech Stack:
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
