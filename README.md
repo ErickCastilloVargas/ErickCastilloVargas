@@ -4,7 +4,7 @@
 - 🔬 **Bioinformatician** at the Genetic Department, Universidad de La Laguna  
 - 🎓 **Education:**  
   - B.Sc. in Biology  
-  - M.Sc. in Bioinformatics  
+  - M.Sc. in Bioinformatics and Biostatistics 
   - M.Sc. in Neuroscience  
 - 💡 **Research Interests:** Genomics, Epigenomics, RNA-seq, EWAS, and computational biology  
 
