@@ -17,9 +17,3 @@ Want to know more? Check out my personal website:
 
 ## 💻 Tech Stack:
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
-
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ErickCastilloVargas&theme=aura&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ErickCastilloVargas&theme=aura&hide_border=false)<br/>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
