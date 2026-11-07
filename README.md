@@ -6,11 +6,11 @@
   - B.Sc. in Biology  
   - M.Sc. in Bioinformatics and Biostatistics 
   - M.Sc. in Neuroscience  
-- 💡 **Research Interests:** Genomics, Epigenomics, RNA-seq, EWAS, and computational biology  
+- 💡 **Research Interests:** Genomics, Epigenomics, and Microbiome.
 
 Want to know more? Check out my personal website:
 
-[![Website](https://img.shields.io/badge/Website-erickcastillo.page-14a1f0?logo=google-chrome&logoColor=white)](https://erickcastillovargas.github.io/)
+[![Website](https://img.shields.io/badge/Website-erickcastillovargas-14a1f0?logo=google-chrome&logoColor=white)](https://erickcastillovargas.github.io/)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erick-marcos-castillo-vargas-68318a221) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:erickmarcoscastillovargas@gmail.com) [![ORCID](https://img.shields.io/badge/ORCID-%23A6CE39.svg?logo=orcid&logoColor=white)](https://orcid.org/0009-0009-7152-9116)
